@@ -27,6 +27,10 @@ Process:
 Staff is exploring the country side.
 Finds a case of polio (or other contagious disease)
 Pulls out device. Reports information
+[-> sends information to server ->]
+[-> store to database]
 Headquarters sees report and helps isolate / send drugs / send help
+[dispatcher]
+[updates database, sees database]
 
-
+Server : Accepts SMS or Form process
