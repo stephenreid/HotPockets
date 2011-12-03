@@ -8,3 +8,15 @@ Assumptions:
 Connection May not Be there
 GPS is likely available on the device, though post location submittals are likely
 (a map / track of where you've been would be good)
+
+
+User Frontend:
+Prompt Location / Get From Device
+Case
+Severity
+Details
+Staff ID / Name / Reported By
+
+Report End:
+What happened in the last 24 Hours
+Google Maps / Ushidi Integration to show Red and Green Zones
