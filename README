@@ -17,6 +17,16 @@ Severity
 Details
 Staff ID / Name / Reported By
 
+[ id, reporter, age, sex, description, status, location]
+
 Report End:
 What happened in the last 24 Hours
 Google Maps / Ushidi Integration to show Red and Green Zones
+
+Process:
+Staff is exploring the country side.
+Finds a case of polio (or other contagious disease)
+Pulls out device. Reports information
+Headquarters sees report and helps isolate / send drugs / send help
+
+
