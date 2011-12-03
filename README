@@ -1,0 +1,10 @@
+HotPockets is a RHOK Atlanta Dec 2011 Project
+
+For Tracking Disease and Help throughout the world.
+
+Blackberry or Android (Phone / Tablet) Apps allow workers to report incidences of disease to a central server.
+
+Assumptions:
+Connection May not Be there
+GPS is likely available on the device, though post location submittals are likely
+(a map / track of where you've been would be good)
